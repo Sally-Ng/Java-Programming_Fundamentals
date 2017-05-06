@@ -16,7 +16,7 @@ Write a class to select random winners from a range of possible winning raffle t
   <img src="raffleWinner.JPG" width="400"/>
 </p>
 
-#### Bank Account 
+#### Project 2: Bank Account 
 Create a bank account object and a interactive driver program that allow user to create and modify their bank account. 
 </br>
 <p align="left">
