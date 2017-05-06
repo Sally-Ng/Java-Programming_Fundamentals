@@ -13,26 +13,26 @@ design and implementation of abstract data types, in numerical and non-numerical
 Write a class to select random winners from a range of possible winning raffle ticket numbers.
 </br>
 <p align="left">
-  <img src="raffleWinner.JPG" width="600"/>
+  <img src="raffleWinner.JPG" width="400"/>
 </p>
 
 #### Bank Account 
 Create a bank account object and a interactive driver program that allow user to create and modify their bank account. 
 </br>
 <p align="left">
-  <img src="bankAccount.JPG" width="400"/>
+  <img src="bankAccount.JPG" width="250"/>
 </p>
 
 #### Project 3: Course Registration
 Create courses and student accounts, then add students to the courses' roster.
 </br>
 <p align="left">
-  <img src="courseRoster.JPG" width="500"/>
+  <img src="courseRoster.JPG" width="350"/>
 </p>
 
 #### Project 4: Rock Paper Scissors GUI
 Clicks the "Rock", "Paper" or "Scissors" button to play with the computer.
 </br>
 <p align="left">
-  <img src="RPSGUI.JPG" width="400"/>
+  <img src="RPSGUI.JPG" width="300"/>
 </p>
