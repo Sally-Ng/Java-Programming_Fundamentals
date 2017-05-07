@@ -31,7 +31,7 @@ The program allows users to create courses and student accounts, and add student
 </p>
 
 #### [Project 4: Rock, Paper, Scissors GUI](https://github.com/Sally-Ng/Java-Rock_Paper_Scissors_GUI)
-The program allows users to play "Rock, Paper, Scissors" with the computer by clicking buttons. 
+The program allows players to play "Rock, Paper, Scissors" with the computer by clicking buttons. 
 </br>
 <p align="left">
   <img src="RPSGUI.JPG" width="300"/>
